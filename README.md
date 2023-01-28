@@ -1,1 +1,1 @@
-# react-barebones
+# merntemplate
